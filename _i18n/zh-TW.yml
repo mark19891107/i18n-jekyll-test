@@ -1,0 +1,11 @@
+site:
+  name: i18n jekyll 範例網站
+  tagline: 快速的學習，來自好的飯粒（誤）
+  description: 來這裡看到的每一位朋友，希望這個範例網站可以幫助到你
+  keywords: 範例, 飯粒, i18n, jekyll
+
+main:
+  welcomeSection:
+    anchor: welcome
+    heading: i18n jekyll 範例網站
+    p1: 來這裡看到的每一位朋友，希望這個範例網站可以幫助到你。快速的學習，來自好的飯粒（誤）
